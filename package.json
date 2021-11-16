@@ -5,6 +5,7 @@
   "repository": "git@github.com:zhaozhao/tmp.git",
   "license": "MIT",
   "dependencies": {
+    "electron": "^11.0.1",
     "is-odd": "^3.0.1"
   }
 }
